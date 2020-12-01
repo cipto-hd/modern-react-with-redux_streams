@@ -1,0 +1,28 @@
+{
+  "streams": [
+    {
+      "title": "Awesome Stream Title",
+      "description": "A marvellous stream description. Wonderful. Yess",
+      "userId": "112381435058211021706",
+      "id": 1
+    },
+    {
+      "title": "Another great stream title",
+      "description": "yess. indeed. it is a great stream. pleas support",
+      "userId": "113487804261256727888",
+      "id": 2
+    },
+    {
+      "title": "Programmatic Navigation",
+      "description": "Awesome yes. awesome yes. awesome yes",
+      "userId": "113487804261256727888",
+      "id": 4
+    },
+    {
+      "title": "Alhamdulillah marvellous stream title",
+      "description": "Alhamdulillah. A marvellous stream description. Wonderful. Yess",
+      "userId": "112381435058211021706",
+      "id": 6
+    }
+  ]
+}
